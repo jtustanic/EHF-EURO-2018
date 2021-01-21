@@ -1,0 +1,30 @@
+ul {
+ list-style-type: none;
+ text-align: center;
+}
+
+.text1{
+	font-family: Chivo;
+	text-align: center;
+}
+
+ div#jedan  { 
+    border-bottom: 2px solid red;
+	
+ }
+ 
+  div#dva  { 
+    border-bottom: 2px solid white ;
+	
+ }
+ 
+  div#tri  { 
+    border-bottom: 2px solid blue;
+	
+ }
+ 
+ .ehf{
+	 font-family: Chivo;
+	 font-size: 35px;
+	 text-align: center;
+ }
